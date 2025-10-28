@@ -1,7 +1,7 @@
 # task6
 ### Scalar Subquery
 A scalar subquery returns one value (one row, one column).
-###Example: Show customers whose order amount is greater than the average order amount
+Example: Show customers whose order amount is greater than the average order amount
 
 ### Corelated Subquery
 A correlated subquery runs once for each row in the outer query.
